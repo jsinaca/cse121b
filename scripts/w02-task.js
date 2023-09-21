@@ -19,8 +19,6 @@ yearElement.textContent = currentYear;
 imageElement.setAttribute("src", profilePicture);
 imageElement.setAttribute("alt", `Profile image of ${fullName}`);
 
-
-
 /* Step 5 - Array */
 let favoriteFood = ["Asadito", "Torta de Pina", "Tacos de asada", "Tacos al pastor", "Tacos de ojo", "Tacos de tripa", "Arros chaufa", "Fried fish", "Suchi", "Steak", "Enchiladas", "Rotisserie chicken", "Paella", "Saltenas", "Charque"];
 foodElement.innerHTML = favoriteFood;
