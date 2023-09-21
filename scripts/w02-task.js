@@ -1,6 +1,7 @@
 /* W02-Task - Profile Home Page */
 
 /* Step 1 - Setup type tasks - no code required */
+// This was compleated
 
 /* Step 2 - Variables */
 let fullName = "Josue Sinaca Gomez";
