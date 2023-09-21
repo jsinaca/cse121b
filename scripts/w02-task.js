@@ -5,7 +5,7 @@
 /* Step 2 - Variables */
 let fullName = "Josue Sinaca Gomez";
 let currentYear = "2023";
-let profilePicture = "/images/profile.JPG";
+let profilePicture = "images/profile.JPG";
 
 /* Step 3 - Element Variables */
 let nameElement = document.getElementById("name");
