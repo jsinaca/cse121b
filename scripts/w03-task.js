@@ -48,7 +48,7 @@ document.getElementById('divideNumbers').addEventListener('click',divideNumbers)
 let dat = new Date();
 let yr = dat.getFullYear();
 // let yr = 1993;
-document.getElementById('year').innerHTML = yr
+document.getElementById('year').innerHTML = yr;
 
 /* ARRAY METHODS - Functional Programming */
 const numbers = [1,2,3,4,5,6,7,8,9,10,11,12,13];
